@@ -1,0 +1,30 @@
+{
+  "streams": [
+    {
+      "title": "okay",
+      "description": "sank you",
+      "id": 1
+    },
+    {
+      "title": "stream 2",
+      "description": "testing testing 12 12",
+      "id": 2
+    },
+    {
+      "title": "som",
+      "description": "herro",
+      "id": 3
+    },
+    {
+      "title": "i created this stream",
+      "description": "this was made by me - UPDATED",
+      "id": 4
+    },
+    {
+      "title": "test test 123 test test 123",
+      "description": "testing 123 description",
+      "userId": "101458002912337556933",
+      "id": 6
+    }
+  ]
+}
